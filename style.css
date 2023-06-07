@@ -1,0 +1,29 @@
+body
+{
+    background-color: rgb(165, 255, 205);
+}
+
+#score
+{
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+#time
+{
+    font-size: 20px;
+    float: right;
+    margin-right: 30px;
+}
+
+#esboço
+{
+    font-size: 25px;
+    color: red;
+}
+
+canvas
+{
+    border-radius: 20px;
+    margin-top: 50px;
+}
